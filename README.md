@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virgiliomacero" alt="virgiliomacero" /></a> </p>
 
-- 🌱 I’m currently learning **CakePHP**
+- 🌱 I’m currently learning **React Mid Level**
 
 - 👯 I’m looking to collaborate on **JavaScript Projects**
 
